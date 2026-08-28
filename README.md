@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/sasmita-rajendran-b91b22326">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/Sas_mi_ta_369/">
     <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://sasmita-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-6A5ACD?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="YOUR_RESUME_URL">
+  <a href="https://drive.google.com/drive/folders/1_oCBYm4JJ8pr_wLNQMnCISIzLkRWkLTZ">
     <img src="https://img.shields.io/badge/Resume-View_My_Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
