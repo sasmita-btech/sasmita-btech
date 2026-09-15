@@ -160,8 +160,6 @@ Python • MFCC • Machine Learning
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 
----
-
 ## 📊 GitHub Activity
 
 <p align="center">
