@@ -162,14 +162,18 @@ Python • MFCC • Machine Learning
 
 ## 📊 GitHub Activity
 
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
   <a href="https://github.com/sasmita-btech">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasmita-btech&hide_border=true&area=true&radius=10" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sasmita-btech&show_icons=true&hide_border=true&theme=transparent" alt="Sasmita's GitHub Statistics" />
   </a>
 </p>
 
 <p align="center">
-  <i>Explore my repositories to see what I'm building and learning.</i>
+  <i>Explore my repositories to see what I'm building and learning. 🚀</i>
 </p>
 
 ---
