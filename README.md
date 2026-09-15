@@ -172,6 +172,9 @@ Python • MFCC • Machine Learning
   <i>Explore my repositories to see what I'm building and learning. 🚀</i>
 </p>
 ---
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sasmita-btech)](https://git.io/streak-stats)
 
 <!-- ======================= MORE ABOUT ME ======================= -->
 
