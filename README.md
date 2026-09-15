@@ -111,44 +111,6 @@ Python • Streamlit • Ollama • SQLite
 
 <td width="50%" valign="top">
 
-<h3>📄 RAG Document Q&A</h3>
-
-A Retrieval-Augmented Generation application that retrieves relevant information from documents and generates context-aware answers.
-
-<b>Tech Stack:</b>
-
-Python • LangChain • RAG • Vector Database
-
-<p>
-  📂 Source Code
-  <br>
-  <i>Add your repository link here</i>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>💬 VSB InfoMate Chatbot</h3>
-
-An AI-powered chatbot designed to provide useful college-related information using Large Language Models and Retrieval-Augmented Generation.
-
-<b>Tech Stack:</b>
-
-LLM • RAG • Chatbot • AI
-
-<p>
-  📂 Source Code
-  <br>
-  <i>Add your repository link here</i>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
 <h3>🎤 Voice Recognition System</h3>
 
 A machine learning project that identifies speakers using extracted audio features and classification techniques.
@@ -166,7 +128,6 @@ Python • MFCC • Machine Learning
 </td>
 </tr>
 </table>
-
 ---
 
 <!-- ======================= CURRENTLY EXPLORING ======================= -->
